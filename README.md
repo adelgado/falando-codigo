@@ -10,3 +10,10 @@ Escutar feedback e iterar:
 - Elm
 - Programação funcional
   "por mim a gente fala sobre FP; de maeira geral; explica os conceitos; fala da sintaxe de ML pra dar os exemplos" -pb
+- coffeescript
+- babel e webpack
+- processo do ecmascript
+- elixir & phoenix
+- teste funcional
+- OTP
+- vim
